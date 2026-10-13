@@ -23,6 +23,6 @@ B = 86
 # print(B.upper())   #cant do int to upper
 
 
-bit_length_checker = B.bit_length()
-print(bit_length_checker)
+# bit_length_checker = B.bit_length()
+# print(bit_length_checker)   #returns bit saved of number in memory
 
